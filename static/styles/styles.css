@@ -1,0 +1,15 @@
+th {
+    text-align: left;
+    border-bottom: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+tr {
+    border-bottom: 3 px solid black;
+}
+td {
+    border: 3 px solid black;
+}
+table, tr, td {border: 1px solid;}
